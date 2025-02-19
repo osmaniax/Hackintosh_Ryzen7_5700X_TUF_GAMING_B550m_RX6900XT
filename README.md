@@ -3,7 +3,15 @@
 ## System Parts
 ### CPU
 AMD Ryzen 7 5700X
-### M/B: ASus TUF GAMING B550m Plus
-### GPU: AMD RX6900XT 16GB(Asus)
-### Ver: macOSX Sonoma
-### EFI: OpenCore
+### M/B
+ASus TUF GAMING B550m Plus
+### GPU
+AMD RX6900XT 16GB(Asus)
+### OS Ver
+macOSX Sonoma 14.7.3
+### EFI
+OpenCore
+### Works
+Sound
+LAN
+USB
