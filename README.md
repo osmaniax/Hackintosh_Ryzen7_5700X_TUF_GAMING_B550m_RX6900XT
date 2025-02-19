@@ -1,0 +1,1 @@
+# Hackintosh_Ryzen7_5700X_TUF_GAMING_B550m_RX6900XT
