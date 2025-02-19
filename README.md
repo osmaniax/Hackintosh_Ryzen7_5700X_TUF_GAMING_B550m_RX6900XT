@@ -12,6 +12,6 @@ macOSX Sonoma 14.7.3
 ### EFI
 OpenCore
 ### Works
-Sound
-LAN
-USB
+Sound<br/>
+LAN<br/>
+USB<br/>
